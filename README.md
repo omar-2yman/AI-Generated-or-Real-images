@@ -6,7 +6,7 @@ This project focuses on implementing neural networks to classify images as eithe
 This project was developed as part of the **Neural Networks class** with **Dr. Marwa Reda**.  
 
 ## Project Presentation
-[View the Presentation](AI-Image detection.pptx)
+[View the Presentation](AI-Image classification.pptx)
 
 ## Dataset  
 We used the [CIFAKE dataset](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images), which is structured as follows:  
